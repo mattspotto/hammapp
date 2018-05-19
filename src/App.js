@@ -12,7 +12,7 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 // Font
 import 'typeface-roboto';
 
-import { loadMarkers } from 'service';
+import { loadMarkers } from './service';
 
 // Map
 import Map from './map';
